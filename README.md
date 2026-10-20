@@ -1,6 +1,11 @@
 # Quillon Auto Group: synthetic dealership CRM (Salesforce-style)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23492351.svg)](https://doi.org/10.5281/zenodo.23492351)
+
 **Version 1.0** · generated with seed 7 · extract date 2026-09-30 · 100% synthetic
+
+**Download the data:** [Zenodo](https://doi.org/10.5281/zenodo.23492351) (CSV and Parquet zips, permanent archive)
+or this repository's [Releases](../../releases) page.
 
 A simulated car-dealership group exported in Salesforce's shape. Files are named after objects,
 columns use field API names, Ids are 18 characters with valid Salesforce checksums and real key
@@ -156,3 +161,30 @@ Kingsbrae April 2025; their volume ramps up after opening.
 - **Opportunity win prediction** from stage history; deal-size and discount analysis
 - **Campaign ROI:** cost per lead / per sale by campaign
 - **Showroom and salesperson performance**, including staff turnover and ramp-up
+
+## How to cite
+
+If you use this dataset, please cite it. GitHub's **"Cite this repository"** button (from `CITATION.cff`) gives
+ready-made APA and BibTeX.
+
+> Kumar, S. (2026). *Quillon Auto Synthetic CRM Data* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23492352
+
+- **This version (1.0):** [10.5281/zenodo.23492352](https://doi.org/10.5281/zenodo.23492352). Cite this when you need the exact data you used.
+- **All versions:** [10.5281/zenodo.23492351](https://doi.org/10.5281/zenodo.23492351). Always resolves to the latest version.
+
+```bibtex
+@dataset{kumar_2026_quillon_auto_crm,
+  author    = {Kumar, Shubham},
+  title     = {Quillon Auto Synthetic CRM Data},
+  year      = {2026},
+  publisher = {Zenodo},
+  version   = {1.0},
+  doi       = {10.5281/zenodo.23492352},
+  url       = {https://doi.org/10.5281/zenodo.23492352}
+}
+```
+
+## License
+
+Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see `DATA_LICENSE.md`). Code: MIT (see `LICENSE`).
+
