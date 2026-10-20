@@ -1,0 +1,5 @@
+# Data is distributed through the GitHub release, Zenodo, Kaggle and Hugging Face, not committed to git
+data/
+parquet/
+*.zip
+__pycache__/

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Quillon Auto Group CRM: a synthetic Salesforce-style dealership dataset"
+version: "1.0"
+date-released: 2026-10-20
+authors:
+  - family-names: "YOUR LAST NAME"
+    given-names: "YOUR FIRST NAME"
+license: CC-BY-4.0
+abstract: >-
+  A fully synthetic, anonymised CRM dataset for a fictional 12-showroom car dealership group:
+  500,000 leads, 190,007 showroom deals (76,585 vehicles sold, 15.3% of leads), 2.7M calls, texts
+  and emails, and 507k appointments, test drives and deliveries, in Salesforce object format.
+  Built for practising lead scoring, funnel analytics, SQL and CRM data modelling.
+keywords:
+  - synthetic data
+  - CRM
+  - Salesforce
+  - lead scoring
+  - automotive
+  - sales funnel
+# After Zenodo gives you a DOI, add it here:
+# doi: 10.5281/zenodo.XXXXXXX
+repository-code: "https://github.com/YOUR-USERNAME/quillon-auto-crm"
